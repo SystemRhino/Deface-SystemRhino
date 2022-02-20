@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Deface em Html Para Sites
 
-You can use the [editor on GitHub](https://github.com/SystemRhino/Deface-SystemRhino/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Código pronto para você fazer o upload em sites onde você conseguiu acesso admin.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lembrando que eu não me responsabilizo por nenhuma atitude ou ação tomada usando meu código em Html.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Código
 
 ```markdown
-Syntax highlighted code block
 
 <META NAME="ROBOTS" CONTENT="INDEX, NOFOLLOW">
 
@@ -86,12 +83,6 @@ Syntax highlighted code block
 </html>
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contato
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SystemRhino/Deface-SystemRhino/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Problemas? Entre em contato via: [telegram](https://t.me/SystemRhino) ou [Instagram](https://instagram.com/systemrhino)
